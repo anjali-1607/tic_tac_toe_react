@@ -1,5 +1,6 @@
 .board_container {
-  margin: 14em 32em 14em 32em;
+  /* margin: 14em 32em 14em 32em; */
+  margin: 12em;
 }
 
 .board_row {
